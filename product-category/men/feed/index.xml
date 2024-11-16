@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Men &#8211; Shopsy</title>
+	<atom:link href="https://dipti-sharma09.github.io/Shopsy/product-category/men/feed/" rel="self" type="application/rss+xml" />
+	<link>https://dipti-sharma09.github.io/Shopsy</link>
+	<description></description>
+	<lastBuildDate>Tue, 08 Oct 2024 06:31:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+	<item>
+		<title>mug</title>
+		<link>https://dipti-sharma09.github.io/Shopsy/product/mug/</link>
+					<comments>https://dipti-sharma09.github.io/Shopsy/product/mug/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 08 Oct 2024 06:31:30 +0000</pubDate>
+				<guid isPermaLink="false">https://dipti-sharma09.github.io/Shopsy/?post_type=product#038;p=2927</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://dipti-sharma09.github.io/Shopsy/product/mug/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>hoodie</title>
+		<link>https://dipti-sharma09.github.io/Shopsy/product/hoodie/</link>
+					<comments>https://dipti-sharma09.github.io/Shopsy/product/hoodie/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 20 Sep 2024 10:21:55 +0000</pubDate>
+				<guid isPermaLink="false">https://dipti-sharma09.github.io/Shopsy/?post_type=product#038;p=2886</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://dipti-sharma09.github.io/Shopsy/product/hoodie/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>T-Shirt</title>
+		<link>https://dipti-sharma09.github.io/Shopsy/product/t-shirt/</link>
+					<comments>https://dipti-sharma09.github.io/Shopsy/product/t-shirt/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 06 Sep 2024 09:18:55 +0000</pubDate>
+				<guid isPermaLink="false">https://dipti-sharma09.github.io/Shopsy/?post_type=product#038;p=2860</guid>
+
+					<description><![CDATA[<strong>Product Title:</strong> Classic Cotton Crewneck T-Shirt
+
+Upgrade your wardrobe essentials with our Classic Cotton Crewneck T-Shirt, designed for comfort, durability, and style. Made from 100% premium soft cotton, this T-shirt offers a breathable and lightweight feel, perfect for all-day wear. The classic crewneck design and regular fit ensure a relaxed and flattering silhouette, making it a versatile choice for any occasion.]]></description>
+										<content:encoded><![CDATA[<strong>Product Title:</strong> Classic Cotton Crewneck T-Shirt
+
+Upgrade your wardrobe essentials with our Classic Cotton Crewneck T-Shirt, designed for comfort, durability, and style. Made from 100% premium soft cotton, this T-shirt offers a breathable and lightweight feel, perfect for all-day wear. The classic crewneck design and regular fit ensure a relaxed and flattering silhouette, making it a versatile choice for any occasion.]]></content:encoded>
+					
+					<wfw:commentRss>https://dipti-sharma09.github.io/Shopsy/product/t-shirt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

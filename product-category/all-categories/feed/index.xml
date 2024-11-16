@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>All Categories &#8211; Shopsy</title>
+	<atom:link href="https://dipti-sharma09.github.io/Shopsy/product-category/all-categories/feed/" rel="self" type="application/rss+xml" />
+	<link>https://dipti-sharma09.github.io/Shopsy</link>
+	<description></description>
+	<lastBuildDate>Sun, 20 Oct 2024 01:46:11 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7</generator>
+	<item>
+		<title>mug</title>
+		<link>https://dipti-sharma09.github.io/Shopsy/product/mug-2/</link>
+					<comments>https://dipti-sharma09.github.io/Shopsy/product/mug-2/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 20 Oct 2024 01:46:10 +0000</pubDate>
+				<guid isPermaLink="false">https://dipti-sharma09.github.io/Shopsy/?post_type=product#038;p=3022</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://dipti-sharma09.github.io/Shopsy/product/mug-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tshirt</title>
+		<link>https://dipti-sharma09.github.io/Shopsy/product/tshirt/</link>
+					<comments>https://dipti-sharma09.github.io/Shopsy/product/tshirt/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 15 Oct 2024 11:03:59 +0000</pubDate>
+				<guid isPermaLink="false">https://dipti-sharma09.github.io/Shopsy/?post_type=product#038;p=2940</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://dipti-sharma09.github.io/Shopsy/product/tshirt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

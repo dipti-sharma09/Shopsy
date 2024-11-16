@@ -1,0 +1,26 @@
+{
+    "open sans": {
+        "normal": "C:\/xampp\/htdocs\/Shopsy\/wp-content\/uploads\/wpo_wcpdf_f82b1c53cadccddb881bd39c2c983122\/fonts\/OpenSans-Normal",
+        "bold": "C:\/xampp\/htdocs\/Shopsy\/wp-content\/uploads\/wpo_wcpdf_f82b1c53cadccddb881bd39c2c983122\/fonts\/OpenSans-Bold",
+        "italic": "C:\/xampp\/htdocs\/Shopsy\/wp-content\/uploads\/wpo_wcpdf_f82b1c53cadccddb881bd39c2c983122\/fonts\/OpenSans-Italic",
+        "bold_italic": "C:\/xampp\/htdocs\/Shopsy\/wp-content\/uploads\/wpo_wcpdf_f82b1c53cadccddb881bd39c2c983122\/fonts\/OpenSans-BoldItalic"
+    },
+    "segoe": {
+        "normal": "C:\/xampp\/htdocs\/Shopsy\/wp-content\/uploads\/wpo_wcpdf_f82b1c53cadccddb881bd39c2c983122\/fonts\/Segoe-Normal",
+        "bold": "C:\/xampp\/htdocs\/Shopsy\/wp-content\/uploads\/wpo_wcpdf_f82b1c53cadccddb881bd39c2c983122\/fonts\/Segoe-Bold",
+        "italic": "C:\/xampp\/htdocs\/Shopsy\/wp-content\/uploads\/wpo_wcpdf_f82b1c53cadccddb881bd39c2c983122\/fonts\/Segoe-Italic",
+        "bold_italic": "C:\/xampp\/htdocs\/Shopsy\/wp-content\/uploads\/wpo_wcpdf_f82b1c53cadccddb881bd39c2c983122\/fonts\/Segoe-BoldItalic"
+    },
+    "roboto slab": {
+        "normal": "C:\/xampp\/htdocs\/Shopsy\/wp-content\/uploads\/wpo_wcpdf_f82b1c53cadccddb881bd39c2c983122\/fonts\/RobotoSlab-Normal",
+        "bold": "C:\/xampp\/htdocs\/Shopsy\/wp-content\/uploads\/wpo_wcpdf_f82b1c53cadccddb881bd39c2c983122\/fonts\/RobotoSlab-Bold",
+        "italic": "C:\/xampp\/htdocs\/Shopsy\/wp-content\/uploads\/wpo_wcpdf_f82b1c53cadccddb881bd39c2c983122\/fonts\/RobotoSlab-Italic",
+        "bold_italic": "C:\/xampp\/htdocs\/Shopsy\/wp-content\/uploads\/wpo_wcpdf_f82b1c53cadccddb881bd39c2c983122\/fonts\/RobotoSlab-BoldItalic"
+    },
+    "currencies": {
+        "normal": "C:\/xampp\/htdocs\/Shopsy\/wp-content\/uploads\/wpo_wcpdf_f82b1c53cadccddb881bd39c2c983122\/fonts\/currencies",
+        "bold": "C:\/xampp\/htdocs\/Shopsy\/wp-content\/uploads\/wpo_wcpdf_f82b1c53cadccddb881bd39c2c983122\/fonts\/currencies",
+        "italic": "C:\/xampp\/htdocs\/Shopsy\/wp-content\/uploads\/wpo_wcpdf_f82b1c53cadccddb881bd39c2c983122\/fonts\/currencies",
+        "bold_italic": "C:\/xampp\/htdocs\/Shopsy\/wp-content\/uploads\/wpo_wcpdf_f82b1c53cadccddb881bd39c2c983122\/fonts\/currencies"
+    }
+}
